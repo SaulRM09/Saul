@@ -8,6 +8,7 @@ ___
 - **Edad:** 16 años
 - **Ubicacion:** Santa Coloma de Gramenet, Barcelona, Cataluña
 - **Pais de Nacimiento:** República Dominicana
+- **Pais de Recidencia:** España
 ---
 # hobbies y intereses
 - Escuchar musica
