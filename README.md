@@ -10,6 +10,12 @@ ___
 - **Pais de Nacimiento:** República Dominicana
 ---
 # hobbies y intereses
-
+- Escuchar musica
+- Informarme de las nuevas tecnologías
+- Jugar a baloncesto
+- Ver ceries o peliculas
+- Salir a correr
+- Montar y desmontar ordenadores
+  
 
 
