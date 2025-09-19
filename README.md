@@ -9,7 +9,7 @@ ___
 - **Ubicacion:** Santa Coloma de Gramenet, Barcelona, Cataluña
 - **Pais de Nacimiento:** República Dominicana
 - **Pais de Residencia:** España
----
+ ---
 # hobbies y intereses
 - Escuchar musica
 - Jugar a baloncesto
@@ -17,7 +17,7 @@ ___
 - Ver ceries o peliculas
 - Montar y desmontar ordenadores
 - Informarme de las nuevas tecnologías
-  ``` codi``` 
+---
   
 
 
