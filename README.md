@@ -32,3 +32,7 @@ ___
 ---
 ## Redes sociales
 - **GitHub:** [https://github.com/SaulRM09](https://github.com/SaulRM09)
+---
+## Objectivos para este año
+Este año tengo algunos que otro objetivo para mejor como estudiante y persona. Y algunos de ellos son:
+[]
