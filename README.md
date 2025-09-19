@@ -20,10 +20,10 @@ ___
 - Informarme de las nuevas tecnologías
 ---
 ## ¿Cómo soy?
-- Tranquilo
-- Paciente
-- respetuoso
-- responsable
+1. Tranquilo
+2. Paciente
+3. respetuoso
+4. responsable
 ## Educación
 - **Educación Secundaria Obligatoria (ESO)**
    Institut Numàcia **(2021-2025)**
