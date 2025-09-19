@@ -19,7 +19,7 @@ ___
 - Montar y desmontar ordenadores
 - Informarme de las nuevas tecnologías
 ---
-## Como soy?
+## ¿Como soy?
 - Tranquilo
 - Paciente
 - respetuoso
