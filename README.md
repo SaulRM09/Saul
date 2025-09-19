@@ -1,6 +1,6 @@
 # Mi primera pagina personal en Markdown
 ---
-# Introducción
+## Introducción
 > Soy una persona que le apaciona la informatica pero mas el ambito de montaje de equipos y saber como es que funciona. Me gusta informarme siempre de lo nuevo que sale y comparar con la versión anterior.
 ___
 ## Algunos datos personales sobre mi
@@ -11,7 +11,7 @@ ___
 - **Pais de Nacimiento:** República Dominicana
 - **Pais de Residencia:** España
  ---
-# hobbies y intereses
+## hobbies y intereses
 - Escuchar musica
 - Jugar a baloncesto
 - Salir a correr
@@ -19,7 +19,7 @@ ___
 - Montar y desmontar ordenadores
 - Informarme de las nuevas tecnologías
 ---
-# Como soy?
+## Como soy?
 - Tranquilo
 - Paciente
 - respetuoso
