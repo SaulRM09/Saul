@@ -1,4 +1,4 @@
-# Mi primera pagina personal en Markdown
+# Mi primera página personal en Markdown
 ---
 ## Introducción
 > Soy una persona que le apaciona la informatica pero mas el ambito de montaje de equipos y saber como es que funciona. Me gusta informarme siempre de lo nuevo que sale y comparar con la versión anterior.
