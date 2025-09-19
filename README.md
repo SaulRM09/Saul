@@ -9,7 +9,7 @@ ___
 - **Ubicacion:** Santa Coloma de Gramenet, Barcelona, Cataluña
 - **Pais de Nacimiento:** República Dominicana
 ---
-#
+# hobbies y intereses
 
 
 
