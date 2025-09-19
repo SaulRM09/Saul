@@ -24,4 +24,5 @@ ___
 - Paciente
 - respetuoso
 - responsable
-
+## Educación
+1. **Educación Secundaria Obligatoria (ESO)**
