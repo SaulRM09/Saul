@@ -12,20 +12,20 @@ ___
 - **Pais de Residencia:** España
  ---
 ## hobbies y intereses
-- Escuchar musica
+- Escuchar música
 - Jugar a baloncesto
 - Salir a correr
 - Ver ceries o peliculas
 - Montar y desmontar ordenadores
 - Informarme de las nuevas tecnologías
 ---
-## ¿Como soy?
+## ¿Cómo soy?
 - Tranquilo
 - Paciente
 - respetuoso
 - responsable
 ## Educación
-1. **Educación Secundaria Obligatoria (ESO)**
+- **Educación Secundaria Obligatoria (ESO)**
    Institut Numàcia **(2021-2025)**
 
     *Expediente de alumno con buen rendimiento academico*
