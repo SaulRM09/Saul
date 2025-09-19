@@ -7,6 +7,6 @@ Me llamo **saul** vengo de hacer cuarto de la *ESO* del Instituo Numancia y esto
 - **Apellido:** Ramírez Merán
 - **Edad:** 16 años
 - **Ubicacion:** Santa Coloma de Gramenet, Barcelona, Cataluña
--
+- **Pais de Nacimiento:** República Dominicana
 
 
