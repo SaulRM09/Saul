@@ -12,11 +12,12 @@ ___
 ---
 # hobbies y intereses
 - Escuchar musica
-- Informarme de las nuevas tecnologías
 - Jugar a baloncesto
-- Ver ceries o peliculas
 - Salir a correr
+- Ver ceries o peliculas
 - Montar y desmontar ordenadores
+- Informarme de las nuevas tecnologías
+  ``` codi``` 
   
 
 
