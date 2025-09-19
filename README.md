@@ -19,5 +19,8 @@ ___
 - Informarme de las nuevas tecnologías
 ---
 # Como soy?
-- 
+- Tranquilo
+- Paciente
+- respetuoso
+- responsable
 
