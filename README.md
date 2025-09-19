@@ -1,6 +1,6 @@
 # Mi primera pagina personal en Markdown
 #
-Me llamo **Saul** vengo de hacer cuarto de la ***ESO*** del Instituo Numancia y estoy ahora mismo haciendo un grado medio de informatica **(SMX)** en el instituto Puig Castellar, porque me apasiona y me gusta la informatica
+> cita. Soy una persona que le apaciona la informatica pero mas el ambito de montaje de equipos y saber como es que funciona. Me gusta informarme siempre de lo nuevo que sale y comparar con la versión anterior.
 ___
 # Algunos datos personales sobre mi
 - **Nombre:** Saul
@@ -23,4 +23,4 @@ ___
 - Paciente
 - respetuoso
 - responsable
-> cita.
+
