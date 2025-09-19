@@ -1,6 +1,6 @@
 # Mi primera pagina personal en Markdown
 #
-> cita. Soy una persona que le apaciona la informatica pero mas el ambito de montaje de equipos y saber como es que funciona. Me gusta informarme siempre de lo nuevo que sale y comparar con la versión anterior.
+> Soy una persona que le apaciona la informatica pero mas el ambito de montaje de equipos y saber como es que funciona. Me gusta informarme siempre de lo nuevo que sale y comparar con la versión anterior.
 ___
 # Algunos datos personales sobre mi
 - **Nombre:** Saul
