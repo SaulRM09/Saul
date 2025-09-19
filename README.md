@@ -1,8 +1,9 @@
 # Mi primera pagina personal en Markdown
-#
+---
+# Introducción
 > Soy una persona que le apaciona la informatica pero mas el ambito de montaje de equipos y saber como es que funciona. Me gusta informarme siempre de lo nuevo que sale y comparar con la versión anterior.
 ___
-# Algunos datos personales sobre mi
+### Algunos datos personales sobre mi
 - **Nombre:** Saul
 - **Apellido:** Ramírez Merán
 - **Edad:** 16 años
