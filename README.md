@@ -33,6 +33,9 @@ ___
 ## Redes sociales
 - **GitHub:** [https://github.com/SaulRM09](https://github.com/SaulRM09)
 ---
-## Objectivos para este año
+## Cosas que debo de hacer para sobrellevar bien este año
 Este año tengo algunos que otro objetivo para mejor como estudiante y persona. Y algunos de ellos son:
-- [x] gagg
+- [x] informame sobre lo que haré durante el ciclo
+- [x] prepararme mentalmente de que no será fácil el ciclo
+- [ ] Organisar mi tiempo
+- [ ] 
