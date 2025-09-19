@@ -31,4 +31,4 @@ ___
     *Expediente de alumno con buen rendimiento academico*
 ---
 ## Redes sociales
-- [https://github.com/SaulRM09](https://github.com/SaulRM09)
+- **GitHub:** [https://github.com/SaulRM09](https://github.com/SaulRM09)
