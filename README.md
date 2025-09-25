@@ -11,7 +11,7 @@ ___
 - **Pais de Nacimiento:** República Dominicana
 - **Pais de Residencia:** España
  ---
-## Hobbies y intereses
+## Hobbies e intereses
 - Escuchar música
 - Jugar a baloncesto
 - Salir a correr
