@@ -6,4 +6,4 @@
 ![Pc gaming](https://www.muycomputer.com/wp-content/uploads/2024/04/MSI-MAG-PANO-M100R-PZ-37.jpeg)
 
 ---
-### Tarjetas graficas
+
