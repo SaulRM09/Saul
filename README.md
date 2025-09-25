@@ -39,3 +39,4 @@ Este año tengo algunos que otro objetivo para mejor como estudiante y persona. 
 - [x] prepararme mentalmente de que no será fácil el ciclo
 - [ ] Organisar mi tiempo
 - [ ] Dormir más
+## Imagen
