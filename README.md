@@ -40,4 +40,4 @@ Este año tengo algunos que otro objetivo para mejor como estudiante y persona. 
 - [ ] Organisar mi tiempo
 - [ ] Dormir más
 ## Imagen
-[Montage de equipos](https://informaticalescorts.com/wp-content/uploads/2015/10/MONTAJE-ORDENDAORES.jpg)
+![Montage de equipos](https://informaticalescorts.com/wp-content/uploads/2015/10/MONTAJE-ORDENDAORES.jpg)
