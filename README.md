@@ -43,6 +43,6 @@ Este año tengo algunos que otro objetivo para mejor como estudiante y persona. 
 ## Imagen
 ![Montage de equipos](https://informaticalescorts.com/wp-content/uploads/2015/10/MONTAJE-ORDENDAORES.jpg)
 ---
-## Extra
+## Mas imagenes de lo que me gusta
 
-[Extra](Extra.md)
+[Enlace](Extra.md)
